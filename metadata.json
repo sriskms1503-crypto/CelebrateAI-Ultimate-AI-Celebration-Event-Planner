@@ -1,0 +1,6 @@
+{
+  "name": "CelebrateAI — Ultimate AI Celebration & Event Planner",
+  "description": "Plan Beautifully. Celebrate Happily. Let AI Handle the Details. AI-powered celebration, wedding, birthday, and event planner with smart budget optimizer, timeline checklist, vendor quotation comparison, and invitation studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
